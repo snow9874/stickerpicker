@@ -1,0 +1,6 @@
+aiohttp
+cryptg
+pillow
+python-magic
+telethon
+yarl
